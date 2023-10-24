@@ -43,7 +43,7 @@ const WidgetWindow = () => {
                 <>
                     <div
                         style={{
-                            overflow: 'scroll',
+                            overflow: 'auto',
                             height: '80%',
                         }}
                     >
