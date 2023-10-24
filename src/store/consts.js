@@ -1,0 +1,7 @@
+export const FETCH_CHAT = 'FETCH_CHAT';
+
+export const FETCH_CHAT_LOADING = 'FETCH_CHAT_LOADING';
+
+export const FETCH_CHAT_SUCCESS = 'FETCH_CHAT_SUCCES';
+
+export const FETCH_CHAT_ERROR = 'FETCH_CHAT_ERROR';
